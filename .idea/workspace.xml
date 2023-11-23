@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="669fd18e-a645-4797-87b2-f8e17480f439" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2YYcc7vYTiZcCuRXpuibawgQSwj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "RestAssured",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.ParsingJsonResponse">
+    <configuration name="CookiesDemo.getCookieInfo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiRestAssuredProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testDay3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testDay3" />
+      <option name="MAIN_CLASS_NAME" value="com.testDay3.CookiesDemo" />
+      <option name="METHOD_NAME" value="getCookieInfo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeaderDemo.testHeader" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiRestAssuredProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testDay3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testDay3" />
+      <option name="MAIN_CLASS_NAME" value="com.testDay3.HeaderDemo" />
+      <option name="METHOD_NAME" value="testHeader" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeaderDemo.testHeaderSingle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiRestAssuredProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testDay3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testDay3" />
+      <option name="MAIN_CLASS_NAME" value="com.testDay3.HeaderDemo" />
+      <option name="METHOD_NAME" value="testHeaderSingle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoggingDemo.testLogs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiRestAssuredProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testDay3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testDay3" />
+      <option name="MAIN_CLASS_NAME" value="com.testDay3.LoggingDemo" />
+      <option name="METHOD_NAME" value="testLogs" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParsingJsonResponse" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiRestAssuredProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testDay4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testDay4" />
+      <option name="MAIN_CLASS_NAME" value="com.testDay4.ParsingJsonResponse" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ParsingJsonResponse" />
+        <item itemvalue="TestNG.LoggingDemo.testLogs" />
+        <item itemvalue="TestNG.HeaderDemo.testHeaderSingle" />
+        <item itemvalue="TestNG.HeaderDemo.testHeader" />
+        <item itemvalue="TestNG.CookiesDemo.getCookieInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="669fd18e-a645-4797-87b2-f8e17480f439" name="Changes" comment="" />
+      <created>1700706033869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700706033869</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

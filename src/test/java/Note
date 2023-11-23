@@ -1,0 +1,18 @@
+How create our own api?
+step 1: download nodejs
+node --version
+npm --version
+
+step 2:
+npm install -g json-server
+
+
+How many way to create request body?
+- Hashmap
+- org.org.json
+- using POJO (plain old java object)
+- using external json file
+
+How to pass a json response data?
+- By using json object class
+we can pares the data
